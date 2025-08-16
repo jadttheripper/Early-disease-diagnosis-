@@ -20,7 +20,7 @@ Blends data science + human perspectives for holistic research
 
 Clean, well-documented code & visualizations for reproducibility
 
-📊 Check out the notebooks, survey findings, and full thesis insights!
+📊 Check out the Google Colab notebooks, survey findings and link, and full thesis insights in the research paper branch of this repository!
 
 🔗 Let’s connect to discuss AI, healthcare tech, or research collaborations!
 
